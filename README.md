@@ -1,0 +1,1 @@
+# inventori-front-react
