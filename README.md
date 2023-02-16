@@ -1,1 +1,1 @@
-# inventori-front-react
+# inventory-front-react
